@@ -44,6 +44,6 @@ Our mmCultural dataset contains:
 - NVIDIA for providing Blackwell GPUs that made these experiments possible
 
 <div align="center">
-Built with ❤️ for responsible AI and cultural inclusivity
+<p>Built with ❤️ for responsible AI and cultural inclusivity</p>
 <a href="https://kiit.ac.in/">KIIT University</a> • <a href="https://www.iitbbs.ac.in/">IIT Bhubaneswar</a>
 </div>
