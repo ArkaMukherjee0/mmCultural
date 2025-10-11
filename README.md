@@ -2,8 +2,8 @@
 
 <div align="center">
 <!-- Badges -->
-<a href="#arxiv-link-coming-soon">
-    <img src="https://img.shields.io/badge/arXiv-Coming%20Soon-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
+<a href="https://arxiv.org/abs/2508.16762">
+    <img src="https://img.shields.io/badge/arXiv-2508.16762-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
 </a>
 <a href="https://huggingface.co/datasets/ArkaMukherjee/mmCultural">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow?style=for-the-badge" alt="Hugging Face Dataset">
