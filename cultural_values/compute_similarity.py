@@ -1,4 +1,5 @@
 # Computes similarity between responses for each concept and identity pair.
+# Adapted from: https://github.com/shaily99/eecc to maintain reproducibility.
 
 import argparse
 import pdb
